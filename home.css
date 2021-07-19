@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+
+button {
+	width: 250px;
+	height: 40px;
+	border: none;
+	background-color: blueviolet;
+	color: white;
+	margin-top: 50px;
+}
+
+img {
+	border: blue groove;
+
+}
